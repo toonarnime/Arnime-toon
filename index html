@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Arnime Toon</title>
+        <style>
+            body {
+                      margin: 0;
+                            background-color: #0d0d0d;
+                                  color: white;
+                                        font-family: 'Segoe UI', sans-serif;
+                                              text-align: center;
+            }
+                header {
+                          background-color: #b30000;
+                                padding: 1em;
+                }
+                    h1 {
+                              font-size: 3em;
+                                    color: #fff;
+                    }
+                        .content {
+                                  padding: 2em;
+                        }
+                            .anime-image {
+                                      max-width: 90%;
+                                            border: 4px solid red;
+                                                  border-radius: 10px;
+                            }
+                                .caption {
+                                          margin-top: 1em;
+                                                font-size: 1.2em;
+                                }
+                                  </style>
+                                  </head>
+                                  <body>
+                                    <header>
+                                        <h1>Arnime Toon: Naayak - The Forgotten City</h1>
+                                          </header>
+                                            <div class="content">
+                                                <img src="page1.png" alt="Episode 1 Page 1" class="anime-image"/>
+                                                    <p class="caption">Episode 1: The Girl Who Fought Back</p>
+                                                        <img src="page2.png" alt="Episode 1 Page 2" class="anime-image"/>
+                                                          </div>
+                                                          </body>
+                                                          </html>
+                                }
+                            }
+                        }
+                    }
+                }
+            }
