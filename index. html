@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Arnime Toon</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        </head>
+        <body class="bg-black text-white font-sans">
+          <!-- Navbar -->
+            <nav class="flex justify-between items-center p-4 bg-red-900 shadow-md">
+                <h1 class="text-2xl font-bold">Arnime Toon</h1>
+                    <input type="text" placeholder="Search..." class="px-2 py-1 rounded bg-gray-800 text-white focus:outline-none">
+                        <div class="space-x-4">
+                              <a href="#" class="hover:text-red-400">Home</a>
+                                    <a href="#" class="hover:text-red-400">Manga</a>
+                                          <a href="#" class="hover:text-red-400">Anime</a>
+                                                <a href="#" class="hover:text-red-400">Trailer</a>
+                                                    </div>
+                                                      </nav>
+
+                                                        <!-- Hero Section -->
+                                                          <section class="h-[60vh] bg-cover bg-center flex items-center justify-center" style="background-image: url('https://wallpaperaccess.com/full/6771324.jpg');">
+                                                              <div class="bg-black bg-opacity-60 p-6 rounded">
+                                                                    <h2 class="text-4xl font-extrabold text-red-500 mb-2">Naayak: The Forgotten City</h2>
+                                                                          <p class="text-lg text-gray-200">Where danger lives in every shadow...</p>
+                                                                              </div>
+                                                                                </section>
+
+                                                                                  <!-- Featured Manga/Anime -->
+                                                                                    <section class="p-6">
+                                                                                        <h3 class="text-2xl font-semibold mb-4">Featured Manga</h3>
+                                                                                            <div class="flex space-x-4 overflow-x-auto">
+                                                                                                  <div class="min-w-[200px] bg-gray-800 rounded-lg p-3">
+                                                                                                          <img src="https://via.placeholder.com/200x300" class="rounded">
+                                                                                                                  <p class="mt-2 text-center">Episode 1: The Girl Who Fought Back</p>
+                                                                                                                        </div>
+                                                                                                                              <!-- More cards can be added here -->
+                                                                                                                                  </div>
+                                                                                                                                    </section>
+
+                                                                                                                                      <!-- Trailer Section -->
+                                                                                                                                        <section class="p-6 bg-gray-900">
+                                                                                                                                            <h3 class="text-2xl font-semibold mb-4">Watch Trailer</h3>
+                                                                                                                                                <div class="aspect-w-16 aspect-h-9">
+                                                                                                                                                      <iframe class="w-full rounded" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Naayak Trailer" allowfullscreen></iframe>
+                                                                                                                                                          </div>
+                                                                                                                                                            </section>
+
+                                                                                                                                                              <!-- Footer with credits -->
+                                                                                                                                                                <footer class="bg-gray-400 bg-opacity-20 text-center py-3 mt-6 text-sm">
+                                                                                                                                                                    <p class="text-gray-200">Created by [Your Name] & [Partner's Name]</p>
+                                                                                                                                                                      </footer>
+                                                                                                                                                                      </body>
+                                                                                                                                                                      </html>
+                                                                                                                                                                      
